@@ -7,9 +7,11 @@ This baseline architecture is implemented following this documentation
 [Architecture](https://github.com/RodrigoVeraRomero/AKS-Private "Architecture") 
 
 ### Diagram
-<div style="text-align:center">
+<p align="center">
 <img src="https://github.com/RodrigoVeraRomero/AKS-APIM-Integration/blob/main/Docs/Architecture.png" width="485px" align="center">
-</div>
+</p>
+
+
 
 There are 4 additional components compared to the baseline, that are using on this exercise to meet requirements.
 
