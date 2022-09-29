@@ -3,10 +3,12 @@
 This architecture is based on the AKS Baseline architecture that Microsoft's recommended as starting point for AKS infrastructure
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks
 
-This basiline architecture is implemented following this documentation https://github.com/RodrigoVeraRomero/AKS-Private
+This basiline architecture is implemented following this documentation 
+[Architecture](https://github.com/RodrigoVeraRomero/AKS-Private "Architecture") 
 
-<img src="https://github.com/RodrigoVeraSYS/AKS-Private/blob/main/Img/Arquitecture.jpg" width="385px" align="center">
+### Diagram
 
+<img src="https://github.com/RodrigoVeraRomero/AKS-APIM-Integration/blob/main/Docs/Architecture.png" width="385px" align="center">
 
 There are 4 aditional components compared to the baseline, that are using on this exercice to meet requirements.
 

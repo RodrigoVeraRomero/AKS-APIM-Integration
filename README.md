@@ -23,5 +23,6 @@ Create AKS cluster that implement painting Api application workload, this cluste
 
 ## Azure Architecture
 
+[Architecture](https://github.com/RodrigoVeraRomero/AKS-APIM-Integration/blob/main/Docs/AzureArquitecture.md "Architecture")
 
 
