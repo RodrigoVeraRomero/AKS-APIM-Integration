@@ -7,8 +7,9 @@ This baseline architecture is implemented following this documentation
 [Architecture](https://github.com/RodrigoVeraRomero/AKS-Private "Architecture") 
 
 ### Diagram
-
-<img src="https://github.com/RodrigoVeraRomero/AKS-APIM-Integration/blob/main/Docs/Architecture.png" width="385px" align="center">
+<div style="text-align:center">
+<img src="https://github.com/RodrigoVeraRomero/AKS-APIM-Integration/blob/main/Docs/Architecture.png" width="485px" align="center">
+</div>
 
 There are 4 additional components compared to the baseline, that are using on this exercise to meet requirements.
 
@@ -32,10 +33,14 @@ https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-dir
 
 Example application is this repository de solution DemoAKSAPIM.sln contains 4 projects
 
-* ApiPerson. This is an API implementation to get all people register on the application that need painting house monitoring, the api is a net core aplication and will live on AKS cluster.
+* ApiPerson. 
+This is an API implementation to get all people register on the application that need painting house monitoring, the api is a net core aplication and will live on AKS cluster.
 
-* ApiAdress. This is an API implementation to get all addresses of customer register on the application that need painting house monitoring, the api is a net core application and will live on AKS cluster.
+* ApiAdress. 
+This is an API implementation to get all addresses of customer register on the application that need painting house monitoring, the api is a net core application and will live on AKS cluster.
 
-* ApiPaintHouse. This is an API implementation to get all the status exterior and interior paint house that provide information of meters and quality percentages painting, the api is a net core aplication and will live on AKS cluster.
+* ApiPaintHouse. 
+This is an API implementation to get all the status exterior and interior paint house that provide information of meters and quality percentages painting, the api is a net core aplication and will live on AKS cluster.
 
-* PaintPortal. This is an example portal build on net core that get information from the apis and
+* PaintPortal. 
+This is an example portal build on net core that get information from the apis and
