@@ -12,7 +12,6 @@ This baseline architecture is implemented following this documentation
 </p>
 
 
-
 There are 4 additional components compared to the baseline, that are using on this exercise to meet requirements.
 
 ### Container Registry
@@ -46,3 +45,5 @@ This is an API implementation to get all the status exterior and interior paint 
 
 * PaintPortal. 
 This is an example portal build on net core that get information from the apis and
+
+
